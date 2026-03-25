@@ -25,6 +25,17 @@
 |------|-------------|----------|
 | [API Vulnerability Scanner](https://github.com/spinov001-art/api-vulnerability-scanner) | OWASP Top 10 API security testing | Python |
 | [API Rate Limit Tester](https://github.com/spinov001-art/api-rate-limit-tester) | Test actual API rate limits | Python |
+| [JWT Vulnerability Tester](https://github.com/spinov001-art/jwt-vulnerability-tester) | Test JWTs for alg:none, weak secrets, expired tokens | Python |
+
+## Web & Network Security
+
+| Tool | Description | Language |
+|------|-------------|----------|
+| [Security Headers Checker](https://github.com/spinov001-art/security-headers-checker) | Check for missing security headers (CSP, HSTS, X-Frame) | Python |
+| [CORS Misconfiguration Scanner](https://github.com/spinov001-art/cors-misconfiguration-scanner) | Detect CORS misconfigurations allowing unauthorized access | Python |
+| [Subdomain Scanner](https://github.com/spinov001-art/subdomain-scanner) | Discover subdomains via DNS brute-force | Python |
+| [SSL Certificate Checker](https://github.com/spinov001-art/ssl-certificate-checker) | Check SSL/TLS certs for expiration and weak ciphers | Python |
+| [DNS Zone Transfer Checker](https://github.com/spinov001-art/dns-zone-transfer-checker) | Test for unauthorized AXFR zone transfers | Python |
 
 ## CI/CD Security
 
