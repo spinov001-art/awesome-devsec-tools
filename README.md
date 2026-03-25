@@ -86,3 +86,11 @@ MIT
 |------|-------------|----------|
 | [Security Headers Checker](https://github.com/spinov001-art/security-headers-checker) | Check websites for missing security headers | Python |
 | [CORS Misconfiguration Scanner](https://github.com/spinov001-art/cors-misconfiguration-scanner) | Test for CORS misconfigurations | Python |
+
+## Network & Infrastructure Security
+
+| Tool | Description | Language |
+|------|-------------|----------|
+| [SSL Certificate Checker](https://github.com/spinov001-art/ssl-certificate-checker) | Check SSL/TLS certs for expiration and weak ciphers | Python |
+| [DNS Zone Transfer Checker](https://github.com/spinov001-art/dns-zone-transfer-checker) | Test for unauthorized AXFR zone transfers | Python |
+| [Subdomain Scanner](https://github.com/spinov001-art/subdomain-scanner) | Discover subdomains via CT logs, DNS, web archives | Python |
