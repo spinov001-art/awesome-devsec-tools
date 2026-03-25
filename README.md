@@ -79,3 +79,10 @@ Found a great open-source security tool? Open a PR to add it!
 ## License
 
 MIT
+
+## Web Security
+
+| Tool | Description | Language |
+|------|-------------|----------|
+| [Security Headers Checker](https://github.com/spinov001-art/security-headers-checker) | Check websites for missing security headers | Python |
+| [CORS Misconfiguration Scanner](https://github.com/spinov001-art/cors-misconfiguration-scanner) | Test for CORS misconfigurations | Python |
