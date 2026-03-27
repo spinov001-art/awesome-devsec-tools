@@ -87,6 +87,16 @@ Found a great open-source security tool? Open a PR to add it!
 - [Dev.to](https://dev.to/0012303) — 390+ articles
 - Email: Spinov001@gmail.com
 
+
+
+---
+
+## Author
+
+Built by Alex Spinov — production-grade web scrapers and data tools.
+
+- [88+ scrapers on Apify](https://apify.com/knotless_cadence) | Email: **spinov001@gmail.com**
+
 ## License
 
 MIT
