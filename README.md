@@ -69,7 +69,7 @@
 
 ## Articles
 
-Read our security research on [Dev.to](https://dev.to/0012303):
+Our security research:
 - I Found 47 Exposed .env Files on GitHub in 10 Minutes
 - GitHub Has a Secret Security API — Scan Any Repo in 30 Seconds
 - I Scanned 1,000 GitHub Actions Workflows — 40% Had Security Issues
@@ -84,7 +84,7 @@ Found a great open-source security tool? Open a PR to add it!
 
 **Aleksej Spinov** — Building developer security tools
 - [Portfolio](https://spinov001-art.github.io)
-- [Dev.to](https://dev.to/0012303) — 390+ articles
+- [GitHub](https://github.com/spinov001-art) — 390+ projects
 - Email: Spinov001@gmail.com
 
 
