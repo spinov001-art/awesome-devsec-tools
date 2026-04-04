@@ -83,7 +83,7 @@ Found a great open-source security tool? Open a PR to add it!
 ## Author
 
 **Aleksej Spinov** — Building developer security tools
-- [Portfolio](https://spinov001-art.github.io)
+- 📧 **spinov001@gmail.com** — custom quote in 2 hours
 - [GitHub](https://github.com/spinov001-art) — 390+ projects
 - Email: Spinov001@gmail.com
 
